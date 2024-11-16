@@ -16,8 +16,8 @@ namespace Task_2
                 Console.WriteLine($"P - Print numbers");
                 Console.WriteLine($"A - Add a number");
                 Console.WriteLine($"M - Display mean of the numbers");
-                Console.WriteLine($"S - Display the smallest number");
-                Console.WriteLine($"L - Display the largest number");
+                Console.WriteLine($"S - Display the smallest number on the list");
+                Console.WriteLine($"L - Display the largest number on the list");
                 Console.WriteLine($"F - Search for a number");
                 Console.WriteLine($"D - Delete a number");
                 Console.WriteLine($"C - Clearing out the list");
